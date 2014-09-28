@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  padding: 20px 30px;
+  border-bottom: 1px solid #efefef;
+  #title {
+    font-size: 24px;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+}
+
+main {
+  padding: 30px;
+}
